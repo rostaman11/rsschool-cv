@@ -8,7 +8,7 @@
 + email: rostislav.stolyar@mail.ru
 ---
 ## Briefly About Myself:
- *I am a second year student at Kupala University in Grodno, specializing in POIT. I want to learn JS and continue in this direction. In the 10th grade I went to JS courses and have a little idea. I want to finish the courses and get good knowledge to get a job in the future.*
+ *I am a second year student at Kupala University in Grodno, specializing in POIT. I want to learn JS and continue in this direction. In the 10th grade I went to JS courses and have a little idea. I want to finish the courses and get good knowledge to get a job in the future!*
 
 ---
 ## Slightly understand:
